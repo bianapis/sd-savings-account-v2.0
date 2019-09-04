@@ -1,0 +1,17 @@
+{
+  "issuedDeviceRequestActionTaskReference" : "IDRATR766417",
+  "issuedDeviceInstanceRecord" : {
+    "issuedDeviceProperty" : {
+      "issuedDeviceStatus" : "issuedDeviceStatus",
+      "issuedDevicePropertyType" : {
+        "issuedDevicePropertyValue" : "issuedDevicePropertyValue"
+      }
+    },
+    "issuedDeviceDescription" : "issuedDeviceDescription",
+    "issuedDeviceOptionSetting" : "issuedDeviceOptionSetting",
+    "issuedDeviceOptionDefinition" : "issuedDeviceOptionDefinition"
+  },
+  "issuedDeviceRequestRecordReference" : "IDRRR718654",
+  "issuedDeviceRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

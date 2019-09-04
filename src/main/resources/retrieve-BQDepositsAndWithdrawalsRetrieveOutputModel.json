@@ -1,0 +1,36 @@
+{
+  "depositsAndWithdrawalsRetrieveActionTaskReference" : "DAWRATR707694",
+  "depositsAndWithdrawalsRetrieveActionResponse" : "depositsAndWithdrawalsRetrieveActionResponse",
+  "deposits&WithdrawalsInstanceRecord" : {
+    "withdrawalType" : "withdrawalType",
+    "accountLimitBreachResponse" : "accountLimitBreachResponse",
+    "withdrawalTransaction" : {
+      "withdrawalTransactionWithdrawalType" : "withdrawalTransactionWithdrawalType",
+      "withdrawalTransactionSourceReference" : "768964",
+      "withdrawalTransactionAmount" : "USD 250",
+      "withdrawalTransactionDate" : "09-22-2018",
+      "withdrawalTransactionDescription" : "withdrawalTransactionDescription"
+    },
+    "depositTransaction" : {
+      "depositTransactionDescription" : "depositTransactionDescription",
+      "depositTransactionDepositType" : "depositTransactionDepositType",
+      "depositTransactionSourceReference" : "723403",
+      "depositTransactionDate" : "09-22-2018",
+      "depositTransactionAmount" : "USD 250"
+    },
+    "depositType" : "depositType"
+  },
+  "depositsAndWithdrawalsInstanceReport" : {
+    "depositsAndWithdrawalsInstanceReportRecord" : {},
+    "depositsAndWithdrawalsInstanceReportParameters" : "depositsAndWithdrawalsInstanceReportParameters",
+    "depositsAndWithdrawalsInstanceReport" : {},
+    "depositsAndWithdrawalsInstanceReportType" : "depositsAndWithdrawalsInstanceReportType"
+  },
+  "depositsAndWithdrawalsRetrieveActionTaskRecord" : {},
+  "depositsAndWithdrawalsInstanceAnalysis" : {
+    "depositsAndWithdrawalsInstanceAnalysisParameters" : "depositsAndWithdrawalsInstanceAnalysisParameters",
+    "depositsAndWithdrawalsInstanceAnalysisRecord" : {},
+    "depositsAndWithdrawalsInstanceAnalysisReportType" : "depositsAndWithdrawalsInstanceAnalysisReportType",
+    "depositsAndWithdrawalsInstanceAnalysisReport" : {}
+  }
+}

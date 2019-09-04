@@ -1,0 +1,17 @@
+{
+  "accountLienInstanceRecord" : {
+    "lienProcessingOption" : "lienProcessingOption",
+    "lienRecord" : {
+      "lienOriginator" : "lienOriginator",
+      "lienStartDate" : "09-22-2018",
+      "lienPurpose" : "lienPurpose",
+      "lienExpiryDate" : "09-22-2018",
+      "lienStatus" : "lienStatus",
+      "lienAmount" : "USD 250"
+    },
+    "lienType" : "lienType"
+  },
+  "updateResponseRecord" : {},
+  "accountLienUpdateActionTaskRecord" : {},
+  "accountLienUpdateActionTaskReference" : "ALUATR776312"
+}

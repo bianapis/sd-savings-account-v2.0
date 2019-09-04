@@ -1,0 +1,51 @@
+{
+  "savingsAccountFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "797962",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "savingsAccountNumber" : "savingsAccountNumber",
+    "taxReference" : "763789",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "statementsSchedule" : {
+      "statementPeriod" : "statementPeriod",
+      "statementTransactionType" : "statementTransactionType",
+      "statementType" : "statementType",
+      "statementReport" : {}
+    },
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "770428",
+    "productInstanceReference" : "704338",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "769431",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "savingsAccountFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "savingsAccountFulfillmentArrangementRetrieveActionTaskReference" : "SAFARATR767728",
+  "savingsAccountFulfillmentArrangementRetrieveActionResponse" : "savingsAccountFulfillmentArrangementRetrieveActionResponse",
+  "savingsAccountFulfillmentArrangementInstanceReportRecord" : {
+    "savingsAccountFulfillmentArrangementInstanceReportData" : "savingsAccountFulfillmentArrangementInstanceReportData",
+    "savingsAccountFulfillmentArrangementInstanceReport" : {},
+    "savingsAccountFulfillmentArrangementInstanceReportType" : "savingsAccountFulfillmentArrangementInstanceReportType"
+  },
+  "savingsAccountFulfillmentArrangementInstanceAnalysis" : {
+    "savingsAccountFulfillmentArrangementInstanceAnalysisReportType" : "savingsAccountFulfillmentArrangementInstanceAnalysisReportType",
+    "savingsAccountFulfillmentArrangementInstanceAnalysisData" : "savingsAccountFulfillmentArrangementInstanceAnalysisData",
+    "savingsAccountFulfillmentArrangementInstanceAnalysisReport" : {}
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "serviceFeesExecuteActionTaskRecord" : {},
+  "serviceFeesExecuteRecordReference" : "SFERR703819",
+  "executeResponseRecord" : {},
+  "serviceFeesExecuteActionTaskReference" : "SFEATR716192",
+  "serviceFeesInstanceRecord" : {
+    "feeConfigurationProfile" : {
+      "feeDefinition" : "feeDefinition"
+    },
+    "feeApplicationRecord" : {
+      "feeAccrualAmount" : {
+        "accrualFeeType" : "accrualFeeType",
+        "accrualFeeCharge" : "USD 250"
+      },
+      "feeTransaction" : {
+        "transactionFeeCharge" : "USD 250",
+        "transactionFeeType" : "transactionFeeType"
+      },
+      "feeProjectionsandCommitments" : {
+        "projectedTransactionFeeType" : "projectedTransactionFeeType",
+        "projectedTransactionFeeCharge" : "USD 250"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "savingsAccountFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "797739",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "savingsAccountNumber" : "savingsAccountNumber",
+    "taxReference" : "793351",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "statementsSchedule" : {
+      "statementPeriod" : "statementPeriod",
+      "statementTransactionType" : "statementTransactionType",
+      "statementType" : "statementType",
+      "statementReport" : {}
+    },
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "753883",
+    "productInstanceReference" : "714997",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "753391",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "savingsAccountFulfillmentArrangementUpdateActionTaskReference" : "SAFAUATR787665",
+  "updateResponseRecord" : {},
+  "savingsAccountFulfillmentArrangementUpdateActionTaskRecord" : {}
+}

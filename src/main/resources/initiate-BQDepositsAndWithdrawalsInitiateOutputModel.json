@@ -1,0 +1,14 @@
+{
+  "depositsAndWithdrawalsInstanceReference" : "DAWIR748725",
+  "savingsAccountFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "positionLimits" : {
+      "positionLimitValue" : "positionLimitValue"
+    }
+  },
+  "depositsAndWithdrawalsInitiateActionRecord" : {},
+  "depositsAndWithdrawalsInstanceStatus" : "depositsAndWithdrawalsInstanceStatus",
+  "depositsAndWithdrawalsInitiateActionReference" : "DAWIAR700495"
+}

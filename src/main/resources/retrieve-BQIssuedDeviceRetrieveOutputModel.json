@@ -1,0 +1,29 @@
+{
+  "issuedDeviceRetrieveActionTaskRecord" : {},
+  "issuedDeviceRetrieveActionResponse" : "issuedDeviceRetrieveActionResponse",
+  "issuedDeviceInstanceAnalysis" : {
+    "issuedDeviceInstanceAnalysisReportType" : "issuedDeviceInstanceAnalysisReportType",
+    "issuedDeviceInstanceAnalysisReport" : {},
+    "issuedDeviceInstanceAnalysisRecord" : {},
+    "issuedDeviceInstanceAnalysisParameters" : "issuedDeviceInstanceAnalysisParameters"
+  },
+  "issuedDeviceInstanceReport" : {
+    "issuedDeviceInstanceReportRecord" : {},
+    "issuedDeviceInstanceReportType" : "issuedDeviceInstanceReportType",
+    "issuedDeviceInstanceReport" : {},
+    "issuedDeviceInstanceReportParameters" : "issuedDeviceInstanceReportParameters"
+  },
+  "issuedDeviceInstanceRecord" : {
+    "issuedDeviceProperty" : {
+      "issuedDeviceStatus" : "issuedDeviceStatus",
+      "issuedDevicePropertyType" : {
+        "issuedDevicePropertyValue" : "issuedDevicePropertyValue"
+      }
+    },
+    "issuedDeviceDescription" : "issuedDeviceDescription",
+    "issuedDeviceOptionSetting" : "issuedDeviceOptionSetting",
+    "issuedDeviceOptionDefinition" : "issuedDeviceOptionDefinition",
+    "issuedDeviceType" : "issuedDeviceType"
+  },
+  "issuedDeviceRetrieveActionTaskReference" : "IDRATR761890"
+}

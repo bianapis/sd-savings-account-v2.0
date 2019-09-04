@@ -1,0 +1,15 @@
+{
+  "savingsAccountFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "accountSweepInstanceRecord" : {
+    "accountSweepDefinition" : "accountSweepDefinition",
+    "accountSweepApplicationSchedule" : "accountSweepApplicationSchedule"
+  },
+  "accountSweepInstanceReference" : "ASIR727813",
+  "accountSweepInitiateActionRecord" : {},
+  "accountSweepInstanceStatus" : "accountSweepInstanceStatus",
+  "accountSweepInitiateActionReference" : "ASIAR763513"
+}

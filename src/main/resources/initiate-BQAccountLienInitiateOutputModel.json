@@ -1,0 +1,20 @@
+{
+  "accountLienInitiateActionReference" : "ALIAR742658",
+  "savingsAccountFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "accountLienInitiateActionRecord" : {},
+  "accountLienInstanceStatus" : "accountLienInstanceStatus",
+  "accountLienInstanceRecord" : {
+    "lienDefinition" : "lienDefinition"
+  },
+  "accountLienInstanceReference" : "ALIR742101"
+}

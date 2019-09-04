@@ -1,0 +1,46 @@
+{
+  "paymentsRetrieveActionResponse" : "paymentsRetrieveActionResponse",
+  "paymentsInstanceAnalysis" : {
+    "paymentsInstanceAnalysisReport" : {},
+    "paymentsInstanceAnalysisRecord" : {},
+    "paymentsInstanceAnalysisParameters" : "paymentsInstanceAnalysisParameters",
+    "paymentsInstanceAnalysisReportType" : "paymentsInstanceAnalysisReportType"
+  },
+  "paymentsRetrieveActionTaskReference" : "PRATR721689",
+  "paymentsInstanceReport" : {
+    "paymentsInstanceReport" : {},
+    "paymentsInstanceReportRecord" : {},
+    "paymentsInstanceReportType" : "paymentsInstanceReportType",
+    "paymentsInstanceReportParameters" : "paymentsInstanceReportParameters"
+  },
+  "paymentsRetrieveActionTaskRecord" : {},
+  "paymentsInstanceRecord" : {
+    "paymentDefinition" : "paymentDefinition",
+    "paymentConfiguration" : {
+      "paymentSchedule" : "paymentSchedule",
+      "directDebitMandateReference" : {
+        "directDebitMandateSettings" : "directDebitMandateSettings"
+      },
+      "billPayMandateReference" : {
+        "billPayMandateSettings" : "billPayMandateSettings"
+      }
+    },
+    "paymentProcessingOptionDefinition" : "paymentProcessingOptionDefinition",
+    "paymentProcessingOptionSetting" : "paymentProcessingOptionSetting",
+    "paymentTransaction" : {
+      "paymentTransactionPayeeReference" : "793911",
+      "paymentTransactionPayeeBankReference" : "782905",
+      "paymentTransactionFeeType" : "paymentTransactionFeeType",
+      "paymentTransactionFeeCharge" : "USD 250",
+      "paymentTransactionPaymentPurpose" : "paymentTransactionPaymentPurpose",
+      "paymentTransactionStatus" : "paymentTransactionStatus",
+      "paymentTransactionPayeeAccountReference" : "728730",
+      "paymentTransactionType" : "paymentTransactionType",
+      "paymentTransactionDate" : "09-22-2018",
+      "paymentTransactionAmount" : "USD 250",
+      "paymentTransactionPaymentMechanism" : "paymentTransactionPaymentMechanism",
+      "paymentTransactionBankBranchLocationReference" : "726078"
+    },
+    "paymentType" : "paymentType"
+  }
+}

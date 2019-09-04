@@ -1,0 +1,20 @@
+{
+  "accountSweepInstanceRecord" : {
+    "accountSweepType" : "accountSweepType",
+    "accountSweepConfiguration" : {
+      "sweepMandate" : "sweepMandate",
+      "sweepProcessingSchedule" : "sweepProcessingSchedule",
+      "targetAccount" : "targetAccount"
+    },
+    "sweepApplicationRecord" : {
+      "accountSweepAmount" : "USD 250",
+      "accountSweepExecutionDate" : "09-22-2018",
+      "accountSweepTargetAccount" : "accountSweepTargetAccount"
+    },
+    "accountSweepDefinition" : "accountSweepDefinition",
+    "accountSweepApplicationSchedule" : "accountSweepApplicationSchedule"
+  },
+  "updateResponseRecord" : {},
+  "accountSweepUpdateActionTaskRecord" : {},
+  "accountSweepUpdateActionTaskReference" : "ASUATR730126"
+}

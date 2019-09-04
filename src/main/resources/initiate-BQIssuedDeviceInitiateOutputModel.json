@@ -1,0 +1,30 @@
+{
+  "savingsAccountFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "700991",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings"
+    }
+  },
+  "issuedDeviceInstanceReference" : "IDIR731043",
+  "issuedDeviceInitiateActionReference" : "IDIAR782336",
+  "issuedDeviceInstanceStatus" : "issuedDeviceInstanceStatus",
+  "issuedDeviceInstanceRecord" : {
+    "issuedDeviceProperty" : {
+      "issuedDeviceStatus" : "issuedDeviceStatus",
+      "issuedDevicePropertyType" : {
+        "issuedDevicePropertyValue" : "issuedDevicePropertyValue"
+      }
+    },
+    "issuedDeviceDescription" : "issuedDeviceDescription",
+    "issuedDeviceOptionSetting" : "issuedDeviceOptionSetting",
+    "issuedDeviceOptionDefinition" : "issuedDeviceOptionDefinition"
+  },
+  "issuedDeviceInitiateActionRecord" : {}
+}

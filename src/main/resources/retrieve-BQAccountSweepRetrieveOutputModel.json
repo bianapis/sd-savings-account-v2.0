@@ -1,0 +1,32 @@
+{
+  "accountSweepInstanceRecord" : {
+    "accountSweepType" : "accountSweepType",
+    "accountSweepConfiguration" : {
+      "sweepMandate" : "sweepMandate",
+      "sweepProcessingSchedule" : "sweepProcessingSchedule",
+      "targetAccount" : "targetAccount"
+    },
+    "sweepApplicationRecord" : {
+      "accountSweepAmount" : "USD 250",
+      "accountSweepExecutionDate" : "09-22-2018",
+      "accountSweepTargetAccount" : "accountSweepTargetAccount"
+    },
+    "accountSweepDefinition" : "accountSweepDefinition",
+    "accountSweepApplicationSchedule" : "accountSweepApplicationSchedule"
+  },
+  "accountSweepInstanceReport" : {
+    "accountSweepInstanceReportType" : "accountSweepInstanceReportType",
+    "accountSweepInstanceReport" : {},
+    "accountSweepInstanceReportParameters" : "accountSweepInstanceReportParameters",
+    "accountSweepInstanceReportRecord" : {}
+  },
+  "accountSweepRetrieveActionResponse" : "accountSweepRetrieveActionResponse",
+  "accountSweepInstanceAnalysis" : {
+    "accountSweepInstanceAnalysisRecord" : {},
+    "accountSweepInstanceAnalysisReportType" : "accountSweepInstanceAnalysisReportType",
+    "accountSweepInstanceAnalysisParameters" : "accountSweepInstanceAnalysisParameters",
+    "accountSweepInstanceAnalysisReport" : {}
+  },
+  "accountSweepRetrieveActionTaskRecord" : {},
+  "accountSweepRetrieveActionTaskReference" : "ASRATR784331"
+}

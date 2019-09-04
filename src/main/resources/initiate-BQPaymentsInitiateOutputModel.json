@@ -1,0 +1,19 @@
+{
+  "savingsAccountFulfillmentArrangementInstanceRecord" : {
+    "taxReference" : "734591",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings"
+    }
+  },
+  "paymentsInstanceReference" : "PIR768888",
+  "paymentsInstanceStatus" : "paymentsInstanceStatus",
+  "paymentsInstanceRecord" : {
+    "paymentDefinition" : "paymentDefinition",
+    "paymentProcessingOptionDefinition" : "paymentProcessingOptionDefinition"
+  },
+  "paymentsInitiateActionReference" : "PIAR744799",
+  "paymentsInitiateActionRecord" : {}
+}

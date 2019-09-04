@@ -1,0 +1,30 @@
+{
+  "accountLienRetrieveActionResponse" : "accountLienRetrieveActionResponse",
+  "accountLienRetrieveActionTaskRecord" : {},
+  "accountLienInstanceRecord" : {
+    "lienProcessingOption" : "lienProcessingOption",
+    "lienRecord" : {
+      "lienOriginator" : "lienOriginator",
+      "lienStartDate" : "09-22-2018",
+      "lienPurpose" : "lienPurpose",
+      "lienExpiryDate" : "09-22-2018",
+      "lienStatus" : "lienStatus",
+      "lienAmount" : "USD 250"
+    },
+    "lienType" : "lienType",
+    "lienDefinition" : "lienDefinition"
+  },
+  "accountLienInstanceAnalysis" : {
+    "accountLienInstanceAnalysisReportType" : "accountLienInstanceAnalysisReportType",
+    "accountLienInstanceAnalysisRecord" : {},
+    "accountLienInstanceAnalysisReport" : {},
+    "accountLienInstanceAnalysisParameters" : "accountLienInstanceAnalysisParameters"
+  },
+  "accountLienInstanceReport" : {
+    "accountLienInstanceReportType" : "accountLienInstanceReportType",
+    "accountLienInstanceReport" : {},
+    "accountLienInstanceReportRecord" : {},
+    "accountLienInstanceReportParameters" : "accountLienInstanceReportParameters"
+  },
+  "accountLienRetrieveActionTaskReference" : "ALRATR790747"
+}

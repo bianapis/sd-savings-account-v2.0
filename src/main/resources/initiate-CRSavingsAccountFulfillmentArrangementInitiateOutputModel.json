@@ -1,0 +1,23 @@
+{
+  "savingsAccountFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "708760",
+    "savingsAccountNumber" : "savingsAccountNumber",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "savingsAccountFulfillmentArrangementInstanceStatus" : "savingsAccountFulfillmentArrangementInstanceStatus",
+  "savingsAccountFulfillmentArrangementInstanceReference" : "SAFAIR790640",
+  "savingsAccountFulfillmentArrangementInitiateActionReference" : "SAFAIAR732380",
+  "savingsAccountFulfillmentArrangementInitiateActionRecord" : {}
+}
